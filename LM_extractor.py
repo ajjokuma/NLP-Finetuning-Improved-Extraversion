@@ -90,6 +90,11 @@ def get_model(embed):
         n_hl = 24
         hidden_dim = 1024
         MODEL = (AlbertModel, AlbertTokenizer, "albert-large-v2")
+    else:
+        n_hl = 12
+        hidden_dim = 768
+        MODEL = (BertModel, BertTokenizer, "bert-base-uncased")
+
 
     model_class, tokenizer_class, pretrained_weights = MODEL
 

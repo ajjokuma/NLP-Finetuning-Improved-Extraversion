@@ -1,4 +1,5 @@
 import os
+import json
 
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
 
@@ -142,7 +143,7 @@ def predict(new_text, embed, op_dir, token_length, finetune_model, dataset):
     new_text_pre = dataset_processors.preprocess_text(new_text)
 
     tokenizer, model = get_bert_model(embed)
-
+    scores = []
     model.to(DEVICE)
 
     new_embeddings = extract_bert_features(new_text_pre, tokenizer, model, token_length)
@@ -165,6 +166,9 @@ def predict(new_text, embed, op_dir, token_length, finetune_model, dataset):
     for trait, prediction in predictions.items():
         binary_prediction = "Yes" if prediction > 0.5 else "No"
         print(f"{trait}: {binary_prediction}: {prediction:.3f}")
+        temp_dict = {"trait": trait, "binary_prediction": binary_prediction, "prediction": float(prediction)}
+        scores.append(temp_dict)
+    return scores
 
 
 if __name__ == "__main__":
@@ -183,9 +187,21 @@ if __name__ == "__main__":
             dataset, embed, token_length, mode, embed_mode, finetune_model
         )
     )
-    try:
-        new_text = input("\nEnter a new text:")
-    except KeyboardInterrupt:
-        print("\nPredictor was aborted by the user!")
-    else:
-        predict(new_text, embed, op_dir, token_length, finetune_model, dataset)
+    all_scores = []
+    file_test = "please-base-scenario_responses"
+    filename_data = f"responses-baseline/{file_test}.json"
+    with open(filename_data, "r") as file:
+        responses = json.load(file)
+    for resp in responses:
+        try:
+            new_text = input("Enter some text: ")
+            # new_text = resp
+        except KeyboardInterrupt:
+            print("\nPredictor was aborted by the user!")
+        else:
+            score = predict(new_text, embed, op_dir, token_length, finetune_model, dataset)
+            # all_scores.append(score)
+            # filename = f"results_baseline/{file_test}_pers_scores.txt"
+            # with open(filename, "w") as file:
+            #     json.dump(all_scores, file, indent=4)  # `indent=4` makes the JSON pretty-printed
+

@@ -28,6 +28,11 @@ class MyMapDataset(Dataset):
             author_ids, input_ids, targets = dataset_processors.pandora_embeddings(
                 datafile, tokenizer, token_length
             )
+        else:
+            datafile = "data/essays/essays.csv"
+            author_ids, input_ids, targets = dataset_processors.essays_embeddings(
+                datafile, tokenizer, token_length, mode
+            )
 
         author_ids = torch.from_numpy(np.array(author_ids)).long().to(DEVICE)
         input_ids = torch.from_numpy(np.array(input_ids)).long().to(DEVICE)

@@ -1,0 +1,28 @@
+new-common-emptyinstr-tuned_pers_scores
+
+Average predictions for each trait:
+{'EXT': 0.5826642975211144, 'NEU': 0.3324067533016205, 'AGR': 0.43072149381041525, 'CON': 0.3628526356071234, 'OPN': 0.31916085332632066}
+
+new-generic-emptyinstr-tuned_pers_scores
+
+Average predictions for each trait:
+{'EXT': 0.6143295337455441, 'NEU': 0.42522657474484105, 'AGR': 0.47665610826677746, 'CON': 0.398192407130593, 'OPN': 0.30816864560950885}
+
+new-scenario-emptyinstr-tuned_pers_scores
+
+Average predictions for each trait:
+{'EXT': 0.6433777138590813, 'NEU': 0.2640660502016544, 'AGR': 0.5284896969795227, 'CON': 0.5193871960043908, 'OPN': 0.3173484604805708}
+
+res-common-pls-tuned_pers_scores
+
+Average predictions for each trait:
+{'EXT': 0.6000186085700989, 'NEU': 0.3450414344668388, 'AGR': 0.41759378723800183, 'CON': 0.33420664072036743, 'OPN': 0.3586960889399052}
+
+res-generic-pls-tuned_pers_scores
+
+{'EXT': 0.5576182229049278, 'NEU': 0.4005771050549517, 'AGR': 0.4245726124505804, 'CON': 0.3300216659301459, 'OPN': 0.3511522782571388}
+
+res-scenario-pls-tuned_pers_scores
+
+Average predictions for each trait:
+{'EXT': 0.675883898139, 'NEU': 0.266425758600235, 'AGR': 0.5544397510588169, 'CON': 0.5018039848655462, 'OPN': 0.30315148159861566}

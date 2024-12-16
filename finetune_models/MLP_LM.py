@@ -126,6 +126,12 @@ def training(dataset, inputs, full_targets, inp_dir, save_model):
 
         for trait_label, best_model in best_models.items():
             best_model.save(f"{path}/MLP_LM_{trait_label}.h5")
+    else:
+        path = inp_dir + "finetune_mlp_lm"
+        Path(path).mkdir(parents=True, exist_ok=True)
+
+        for trait_label, best_model in best_models.items():
+            best_model.save(f"{path}/MLP_LM_{trait_label}.h5")
 
     print(expdata)
     df = pd.DataFrame.from_dict(expdata)
