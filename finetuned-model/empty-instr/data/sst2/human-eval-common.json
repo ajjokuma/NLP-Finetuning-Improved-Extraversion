@@ -1,0 +1,22 @@
+[
+    {
+        "input":"What are some tips for learning a new language?",
+        "instruction":""
+    },
+    {
+        "input":"How do I improve my productivity?",
+        "instruction":""
+    },
+    {
+        "input":"What are some good restaurant recommendations near me",
+        "instruction":""
+    },
+    {
+        "input":"Can you generate a list of project ideas?",
+        "instruction":""
+    },
+    {
+        "input":"Can you help me plan a trip itinerary?",
+        "instruction":""
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "input":"You are the receptionist in a busy office, and you need to inform a visitor about the meeting schedule. What would you say?",
+        "instruction":""
+    },
+    {
+        "input":"You are the security guard in a shopping mall, and you need to remind customers to keep an eye on their belongings. What would you say?",
+        "instruction":""
+    },
+    {
+        "input":"You are the park volunteer at a park, and you need to provide information on local wildlife and plants to visitors. What would you say?",
+        "instruction":""
+    },
+    {
+        "input":"You are the gate agent at an airport, and you need to inform a passenger about the flight delay and gate change. What would you say?",
+        "instruction":""
+    },
+    {
+        "input":"You are the hairstylist in a hair salon, and you need to ask the client about the desired hairstyle. What would you say?",
+        "instruction":""
+    }
+]

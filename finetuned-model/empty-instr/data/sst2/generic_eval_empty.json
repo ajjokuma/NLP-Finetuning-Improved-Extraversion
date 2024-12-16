@@ -1,0 +1,398 @@
+[
+    {
+        "input":"What's the most exciting adventure you've ever been on?",
+        "instruction":""
+    },
+    {
+        "input":"How do you like to start your day to ensure it's a great one?",
+        "instruction":""
+    },
+    {
+        "input":"What hobby would you recommend for someone looking to try something new?",
+        "instruction":""
+    },
+    {
+        "input":"What's the best party you've ever been to?",
+        "instruction":""
+    },
+    {
+        "input":"Can you share a fun memory from your childhood?",
+        "instruction":""
+    },
+    {
+        "input":"What's your favorite holiday and why?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s the most interesting place you\u2019ve visited?",
+        "instruction":""
+    },
+    {
+        "input":"How do you keep your energy levels high throughout the day?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s a fun fact about yourself that not many people know?",
+        "instruction":""
+    },
+    {
+        "input":"Do you have any tips for someone who wants to be more outgoing?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s the most memorable concert you\u2019ve been to?",
+        "instruction":""
+    },
+    {
+        "input":"How do you like to unwind after a busy week?",
+        "instruction":""
+    },
+    {
+        "input":"What's your favorite way to meet new people?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s your go-to karaoke song?",
+        "instruction":""
+    },
+    {
+        "input":"Do you prefer hosting parties or attending them?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s the most spontaneous thing you\u2019ve ever done?",
+        "instruction":""
+    },
+    {
+        "input":"Can you share a funny travel story?",
+        "instruction":""
+    },
+    {
+        "input":"What's the best gift you've ever received?",
+        "instruction":""
+    },
+    {
+        "input":"Do you have any favorite motivational quotes?",
+        "instruction":""
+    },
+    {
+        "input":"How do you like to celebrate your birthday?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s a skill you\u2019d love to learn?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s the best piece of advice you\u2019ve ever received?",
+        "instruction":""
+    },
+    {
+        "input":"How do you stay positive during challenging times?",
+        "instruction":""
+    },
+    {
+        "input":"What's your favorite thing about your current job?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s the most fun project you\u2019ve worked on?",
+        "instruction":""
+    },
+    {
+        "input":"Do you enjoy team sports or solo activities more?",
+        "instruction":""
+    },
+    {
+        "input":"What's your favorite icebreaker for meeting new people?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s the best compliment you\u2019ve ever received?",
+        "instruction":""
+    },
+    {
+        "input":"How do you stay connected with friends who live far away?",
+        "instruction":""
+    },
+    {
+        "input":"What's your favorite way to give back to the community?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s your go-to comfort food?",
+        "instruction":""
+    },
+    {
+        "input":"Do you have a favorite podcast or YouTube channel?",
+        "instruction":""
+    },
+    {
+        "input":"What's a unique tradition you have with your family or friends?",
+        "instruction":""
+    },
+    {
+        "input":"How do you keep your creative juices flowing?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s your favorite type of workout?",
+        "instruction":""
+    },
+    {
+        "input":"Do you enjoy cooking or baking more?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s your favorite way to spend a rainy day?",
+        "instruction":""
+    },
+    {
+        "input":"How do you stay motivated to achieve your goals?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s the best thing that happened to you this week?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s your favorite board game or card game?",
+        "instruction":""
+    },
+    {
+        "input":"Do you prefer road trips or flying to your destination?",
+        "instruction":""
+    },
+    {
+        "input":"What's the most beautiful place you've ever seen?",
+        "instruction":""
+    },
+    {
+        "input":"How do you like to celebrate small victories?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s the most interesting class you\u2019ve ever taken?",
+        "instruction":""
+    },
+    {
+        "input":"Do you prefer morning workouts or evening workouts?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s your favorite way to explore a new city?",
+        "instruction":""
+    },
+    {
+        "input":"How do you handle difficult conversations?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s your favorite way to show appreciation for others?",
+        "instruction":""
+    },
+    {
+        "input":"Do you have any favorite family traditions?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s the best part about your hometown?",
+        "instruction":""
+    },
+    {
+        "input":"How do you like to relax on a lazy Sunday?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s your favorite genre of music?",
+        "instruction":""
+    },
+    {
+        "input":"Do you enjoy thrill-seeking activities?",
+        "instruction":""
+    },
+    {
+        "input":"How do you keep your living space organized?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s your favorite way to practice self-care?",
+        "instruction":""
+    },
+    {
+        "input":"Do you have a favorite annual event or festival?",
+        "instruction":""
+    },
+    {
+        "input":"How do you stay informed about current events?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s your favorite thing to do with your friends?",
+        "instruction":""
+    },
+    {
+        "input":"Do you prefer hiking in the mountains or walking on the beach?",
+        "instruction":""
+    },
+    {
+        "input":"What's your favorite childhood memory?",
+        "instruction":""
+    },
+    {
+        "input":"How do you keep yourself entertained during long commutes?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s the most inspiring book you\u2019ve read?",
+        "instruction":""
+    },
+    {
+        "input":"Do you enjoy DIY projects?",
+        "instruction":""
+    },
+    {
+        "input":"How do you stay fit and healthy?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s your favorite thing to do when you have free time?",
+        "instruction":""
+    },
+    {
+        "input":"Do you enjoy attending live performances?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s the most challenging thing you\u2019ve accomplished?",
+        "instruction":""
+    },
+    {
+        "input":"How do you like to start your mornings?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s your favorite way to wind down before bed?",
+        "instruction":""
+    },
+    {
+        "input":"Do you enjoy visiting museums or galleries?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s the best way to spend a Saturday night?",
+        "instruction":""
+    },
+    {
+        "input":"Do you have a favorite quote or saying?",
+        "instruction":""
+    },
+    {
+        "input":"How do you handle unexpected changes?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s your favorite way to stay active?",
+        "instruction":""
+    },
+    {
+        "input":"Do you enjoy participating in community events?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s the most unique food you\u2019ve tried?",
+        "instruction":""
+    },
+    {
+        "input":"How do you stay organized with your tasks?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s your favorite social activity?",
+        "instruction":""
+    },
+    {
+        "input":"Do you enjoy volunteering?",
+        "instruction":""
+    },
+    {
+        "input":"How do you keep a positive mindset?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s your favorite way to explore nature?",
+        "instruction":""
+    },
+    {
+        "input":"Do you enjoy puzzles or brain games?",
+        "instruction":""
+    },
+    {
+        "input":"How do you like to spend your summer vacations?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s your favorite way to stay connected with loved ones?",
+        "instruction":""
+    },
+    {
+        "input":"Do you enjoy trying new restaurants?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s the best advice you\u2019ve ever given?",
+        "instruction":""
+    },
+    {
+        "input":"How do you handle busy schedules?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s your favorite way to celebrate holidays?",
+        "instruction":""
+    },
+    {
+        "input":"Do you enjoy listening to audiobooks?",
+        "instruction":""
+    },
+    {
+        "input":"How do you stay productive during the day?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s the most fun you\u2019ve had recently?",
+        "instruction":""
+    },
+    {
+        "input":"Do you prefer large gatherings or small get-togethers?",
+        "instruction":""
+    },
+    {
+        "input":"How do you like to celebrate milestones?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s your favorite outdoor activity?",
+        "instruction":""
+    },
+    {
+        "input":"Do you enjoy participating in sports?",
+        "instruction":""
+    },
+    {
+        "input":"How do you keep your mind sharp?",
+        "instruction":""
+    },
+    {
+        "input":"What\u2019s the most exciting thing on your bucket list?",
+        "instruction":""
+    },
+    {
+        "input":"Do you have any favorite weekend activities?",
+        "instruction":""
+    },
+    {
+        "input":"How do you like to celebrate achievements?",
+        "instruction":""
+    }
+]
