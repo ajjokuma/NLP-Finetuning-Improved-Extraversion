@@ -1,7 +1,7 @@
 
 # NLP Final Project: Fine-tuning for Increased Extraversion in LLMs
 
-This repo contains the codes for this project. 
+This repo contains the code for this project. 
 
 ## 
 
