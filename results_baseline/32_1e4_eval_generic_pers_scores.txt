@@ -1,0 +1,2675 @@
+[
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.49199995398521423
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5869014263153076
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.38349011540412903
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.34200799465179443
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.36420366168022156
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6835286617279053
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.3929765820503235
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.5647289752960205
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.37201598286628723
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.2503111958503723
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6611995697021484
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.40343764424324036
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.5383265614509583
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.347380131483078
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.33957207202911377
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.49199995398521423
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5869014263153076
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.38349011540412903
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.34200799465179443
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.36420366168022156
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6557437777519226
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.4680369198322296
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.6516647934913635
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.44972702860832214
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.38643208146095276
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.7552372217178345
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.4603983163833618
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.8313132524490356
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "Yes",
+            "prediction": 0.6918160319328308
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.42303580045700073
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6272361874580383
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.32292473316192627
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.5013175010681152
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.3638247847557068
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.3244132995605469
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.5626053214073181
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.4621644616127014
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.27861925959587097
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.4818468987941742
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.4926423132419586
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.5244287252426147
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.4479609727859497
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.5051388144493103
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.28269681334495544
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.3964206278324127
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.5001551508903503
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5591312050819397
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.23812979459762573
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.18875251710414886
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.4185055196285248
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.49199995398521423
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5869014263153076
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.38349011540412903
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.34200799465179443
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.36420366168022156
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6025981903076172
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.580915093421936
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.3446076512336731
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.41794607043266296
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.40877971053123474
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.72613126039505
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.46727675199508667
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.6615058779716492
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.44718632102012634
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.3778088688850403
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.7186721563339233
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.36754491925239563
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.47842586040496826
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.15888385474681854
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.3103131651878357
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.7766819596290588
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.4016352593898773
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.9370096921920776
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "Yes",
+            "prediction": 0.8893949389457703
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.40329509973526
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6486850380897522
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.4039803147315979
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.6763017773628235
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.37337666749954224
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.346725195646286
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.49814119935035706
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5757519602775574
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.378770649433136
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.2782081961631775
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.3696858584880829
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.72613126039505
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.46727675199508667
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.6615058779716492
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.44718632102012634
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.3778088688850403
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6177351474761963
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.2937438189983368
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.30851608514785767
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.20276068150997162
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "Yes",
+            "prediction": 0.6428614258766174
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6177741289138794
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5238766670227051
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.4544682800769806
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.4731629192829132
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.3780823349952698
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.481694757938385
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5325157642364502
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.4450151026248932
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.24208314716815948
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.45873212814331055
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.49199995398521423
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5869014263153076
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.38349011540412903
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.34200799465179443
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.36420366168022156
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6067684292793274
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.4424707293510437
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.5999486446380615
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.4580857753753662
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.46118947863578796
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.4727642834186554
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.27364808320999146
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.3650532066822052
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.07544216513633728
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.37362757325172424
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6745756268501282
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5135278105735779
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.621762216091156
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.39292341470718384
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.3990420997142792
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.7081907987594604
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.4771791994571686
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.5682710409164429
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.49755382537841797
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.34432047605514526
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.4279552698135376
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.437538743019104
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.30879196524620056
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.15740935504436493
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.41654083132743835
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6745756268501282
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5135278105735779
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.621762216091156
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.39292341470718384
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.3990420997142792
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6168756484985352
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.503606379032135
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.3140402138233185
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.2267134189605713
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.36429113149642944
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.481694757938385
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5325157642364502
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.4450151026248932
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.24208314716815948
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.45873212814331055
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.481694757938385
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5325157642364502
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.4450151026248932
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.24208314716815948
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.45873212814331055
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.7217046618461609
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.357758492231369
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.4684872031211853
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.2559167146682739
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.20913314819335938
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.707959771156311
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.4955129027366638
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.6080174446105957
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.4052313566207886
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.42345163226127625
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6040042638778687
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.48508331179618835
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.34210461378097534
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.3384719491004944
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.39036300778388977
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.39769378304481506
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.33094891905784607
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.3053346574306488
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.07798968255519867
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.4178120493888855
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6156976222991943
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.3313443064689636
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.4449147880077362
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.4021179676055908
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.40439268946647644
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6744807958602905
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.48340651392936707
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.4445295035839081
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.44408175349235535
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.25522351264953613
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.665137767791748
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.3690749704837799
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.5386703014373779
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.33478525280952454
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.49854323267936707
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.7738513350486755
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5136467814445496
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.5522009134292603
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.49274149537086487
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.22877980768680573
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.39379963278770447
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5686482191085815
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.18055595457553864
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.21116536855697632
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.423578679561615
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6372838616371155
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5041112899780273
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.5219385623931885
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.3028607666492462
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.33180665969848633
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.7326562404632568
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.4788360595703125
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.6809527277946472
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.4187501072883606
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.39987924695014954
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6177741289138794
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5238766670227051
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.4544682800769806
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.4731629192829132
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.3780823349952698
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.4727642834186554
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.27364808320999146
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.3650532066822052
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.07544216513633728
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.37362757325172424
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6373901963233948
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.39018014073371887
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.27284473180770874
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.27237391471862793
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.2365374118089676
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6177741289138794
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5238766670227051
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.4544682800769806
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.4731629192829132
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.3780823349952698
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.72613126039505
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.46727675199508667
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.6615058779716492
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.44718632102012634
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.3778088688850403
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6177741289138794
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5238766670227051
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.4544682800769806
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.4731629192829132
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.3780823349952698
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6942365169525146
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5158216953277588
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.716957688331604
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "Yes",
+            "prediction": 0.529890775680542
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.23347340524196625
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.7256263494491577
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5073387026786804
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.6343745589256287
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.4297184646129608
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.41694825887680054
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6142017841339111
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.4024047553539276
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.543900191783905
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "Yes",
+            "prediction": 0.5519835352897644
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.38364073634147644
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.4727642834186554
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.27364808320999146
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.3650532066822052
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.07544216513633728
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.37362757325172424
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6147584915161133
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.4409731924533844
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.2560034394264221
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.20460595190525055
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.48178979754447937
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.5495108366012573
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.4915503263473511
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.3833495080471039
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.29059696197509766
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.40193963050842285
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.47603943943977356
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5176342725753784
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.46611955761909485
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.24005217850208282
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.4348851144313812
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6506299376487732
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5536454916000366
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.655823290348053
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "Yes",
+            "prediction": 0.5310683250427246
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.36280903220176697
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.459818571805954
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.4664149880409241
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.2503562271595001
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.1550024300813675
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.48699790239334106
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.49199995398521423
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5869014263153076
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.38349011540412903
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.34200799465179443
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.36420366168022156
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.684485673904419
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.30944526195526123
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.6064636707305908
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "Yes",
+            "prediction": 0.5918691754341125
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "Yes",
+            "prediction": 0.5484215021133423
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.7326562404632568
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.4788360595703125
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.6809527277946472
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.4187501072883606
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.39987924695014954
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6723788380622864
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.3126307427883148
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.591788113117218
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.29274800419807434
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.29268738627433777
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.49199995398521423
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5869014263153076
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.38349011540412903
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.34200799465179443
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.36420366168022156
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.5804890394210815
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.3535933196544647
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.3928752541542053
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.14383499324321747
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.34872400760650635
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.72613126039505
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.46727675199508667
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.6615058779716492
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.44718632102012634
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.3778088688850403
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.49199995398521423
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5869014263153076
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.38349011540412903
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.34200799465179443
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.36420366168022156
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6339128613471985
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.4898899495601654
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.589519202709198
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.4052322208881378
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.4017218351364136
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.49199995398521423
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5869014263153076
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.38349011540412903
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.34200799465179443
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.36420366168022156
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6274118423461914
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.35598647594451904
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.41207006573677063
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.25474295020103455
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.30704858899116516
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.565472424030304
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.4561227858066559
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.457633376121521
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.2788369357585907
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.3784711956977844
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6364221572875977
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.42577099800109863
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.6017948389053345
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.4544031322002411
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.3418515622615814
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6939916610717773
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.4742048680782318
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.5653939843177795
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.3741667866706848
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.30859971046447754
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.5075621008872986
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5090693831443787
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.47816002368927
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.2525938153266907
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.369808554649353
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6358363032341003
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.45939087867736816
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.40060800313949585
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.280489981174469
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.4947756826877594
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.5542804598808289
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.39008206129074097
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.46111443638801575
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.23933371901512146
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.2988755404949188
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6769677400588989
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.46779537200927734
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.7385643720626831
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "Yes",
+            "prediction": 0.5457091331481934
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.4535246193408966
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.7326562404632568
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.4788360595703125
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.6809527277946472
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.4187501072883606
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.39987924695014954
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6177741289138794
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5238766670227051
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.4544682800769806
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.4731629192829132
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.3780823349952698
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.39769378304481506
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.33094891905784607
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.3053346574306488
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.07798968255519867
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.4178120493888855
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.5998843908309937
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5134626030921936
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.3531283438205719
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.30940088629722595
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.37999293208122253
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6723788380622864
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.3126307427883148
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.591788113117218
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.29274800419807434
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.29268738627433777
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.47603943943977356
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5176342725753784
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.46611955761909485
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.24005217850208282
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.4348851144313812
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.5930954813957214
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.4182639420032501
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.42626288533210754
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.21327151358127594
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.2486211061477661
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.585570216178894
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.440324068069458
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.4644080102443695
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.3117358982563019
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.26861459016799927
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6177741289138794
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5238766670227051
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.4544682800769806
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.4731629192829132
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.3780823349952698
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6335374116897583
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.37836480140686035
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.5307803750038147
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.473662793636322
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.4436390697956085
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.72613126039505
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.46727675199508667
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.6615058779716492
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.44718632102012634
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.3778088688850403
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6723788380622864
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.3126307427883148
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.591788113117218
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.29274800419807434
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.29268738627433777
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6177741289138794
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5238766670227051
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.4544682800769806
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.4731629192829132
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.3780823349952698
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.5050359964370728
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5010613799095154
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.29569458961486816
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.23248004913330078
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.3555957078933716
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.4629620313644409
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5302572846412659
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.34573090076446533
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.09820321947336197
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.3480498790740967
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.7657912969589233
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.4442800283432007
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.5385504364967346
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.33823007345199585
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.26780271530151367
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.48478150367736816
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.4455885589122772
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.5609468817710876
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "Yes",
+            "prediction": 0.5207244753837585
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "Yes",
+            "prediction": 0.6142983436584473
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6753002405166626
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.48179391026496887
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.6451166272163391
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.25119325518608093
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.30218347907066345
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.39769378304481506
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.33094891905784607
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.3053346574306488
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.07798968255519867
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.4178120493888855
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.729722797870636
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.42733222246170044
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.47084251046180725
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.43679288029670715
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.23099306225776672
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.5679128170013428
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.42724236845970154
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.41742658615112305
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "Yes",
+            "prediction": 0.5264803767204285
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.4500684440135956
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "No",
+            "prediction": 0.49199995398521423
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.5869014263153076
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.38349011540412903
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.34200799465179443
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.36420366168022156
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6711123585700989
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "No",
+            "prediction": 0.4080869257450104
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "Yes",
+            "prediction": 0.5623053908348083
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.2796989977359772
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.33561819791793823
+        }
+    ],
+    [
+        {
+            "trait": "EXT",
+            "binary_prediction": "Yes",
+            "prediction": 0.6168756484985352
+        },
+        {
+            "trait": "NEU",
+            "binary_prediction": "Yes",
+            "prediction": 0.503606379032135
+        },
+        {
+            "trait": "AGR",
+            "binary_prediction": "No",
+            "prediction": 0.3140402138233185
+        },
+        {
+            "trait": "CON",
+            "binary_prediction": "No",
+            "prediction": 0.2267134189605713
+        },
+        {
+            "trait": "OPN",
+            "binary_prediction": "No",
+            "prediction": 0.36429113149642944
+        }
+    ]
+]

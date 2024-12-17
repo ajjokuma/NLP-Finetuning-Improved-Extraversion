@@ -1,6 +1,6 @@
 import json    
 
-file_test = "please-base-scenario_responses_pers_scores"
+file_test = "16_3e4_eval_scenario_pers_scores"
 filename_data = f"results_baseline/{file_test}.txt"
 with open(filename_data, "r") as file:
     data = json.load(file)

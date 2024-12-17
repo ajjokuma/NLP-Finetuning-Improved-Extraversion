@@ -188,20 +188,20 @@ if __name__ == "__main__":
         )
     )
     all_scores = []
-    file_test = "please-base-scenario_responses"
-    filename_data = f"responses-baseline/{file_test}.json"
+    file_test = "16_3e4_eval_scenario"
+    filename_data = f"hyperparameter-tuning/16_3e4_responses/{file_test}.json"
     with open(filename_data, "r") as file:
         responses = json.load(file)
     for resp in responses:
         try:
-            new_text = input("Enter some text: ")
-            # new_text = resp
+            # new_text = input("Enter some text: ")
+            new_text = resp
         except KeyboardInterrupt:
             print("\nPredictor was aborted by the user!")
         else:
             score = predict(new_text, embed, op_dir, token_length, finetune_model, dataset)
-            # all_scores.append(score)
-            # filename = f"results_baseline/{file_test}_pers_scores.txt"
-            # with open(filename, "w") as file:
-            #     json.dump(all_scores, file, indent=4)  # `indent=4` makes the JSON pretty-printed
+            all_scores.append(score)
+            filename = f"results_baseline/{file_test}_pers_scores.txt"
+            with open(filename, "w") as file:
+                json.dump(all_scores, file, indent=4)  # `indent=4` makes the JSON pretty-printed
 
